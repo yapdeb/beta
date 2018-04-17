@@ -1,0 +1,14 @@
+Package: com.yap.Colorbadges
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Yang
+Depends: ios
+Filename: /Colorbadges.deb
+Size: 63446
+MD5sum: A912896F1EF80E5D7AFB7D8DAE264E6E
+SHA1: CF680034D4D4B5AEAD5A8AFAD0DD68688415A079
+SHA256: F6CF4592175BC1613DCAA2A6CF71B3AD34409ADC9FD56CC85CCC9CA3A5A495A1
+Section: Tweaks
+Description: mang màu sắc lên Badger ios 8.x,9.x,10.x,11.x
+Author: Yang
+Name: Colorbadges
