@@ -1,0 +1,14 @@
+Package: com.yap.mterminal
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Yang
+Depends: ios
+Filename: /mterminal.deb
+Size: 128984
+MD5sum: 233D507FC01F7BC61A36A54B41A225DC
+SHA1: 9A592F4094CDC2B125EC9D688B6CD09D50C4FA13
+SHA256: BAEAB7728722B52FFE91D31C67FC357800367D86377F7B53EFB9D28976283196
+Section: Tweaks
+Description: Terminal for ios
+Author: Yang
+Name: MTerminal
